@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2137956.jpg");
+    position: fixed;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    
+    }
+    .color1{
+    text-align: center;
+    color: rgb(255, 0, 255);
+    }
+    .color2{
+    text-align: center;
+    color: aqua;
+    float: left;
+    }
+    .color3{
+    float: right;
+    }
